@@ -15,6 +15,7 @@
 		E101D5E4236888D700FFD228 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E101D5E2236888D700FFD228 /* LaunchScreen.storyboard */; };
 		E101D5EF236888D700FFD228 /* hw6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E101D5EE236888D700FFD228 /* hw6Tests.swift */; };
 		E101D5FA236888D700FFD228 /* hw6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E101D5F9236888D700FFD228 /* hw6UITests.swift */; };
+		E101D60823688C2C00FFD228 /* FacebookChatTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E101D60723688C2C00FFD228 /* FacebookChatTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E101D5F5236888D700FFD228 /* hw6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hw6UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E101D5F9236888D700FFD228 /* hw6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hw6UITests.swift; sourceTree = "<group>"; };
 		E101D5FB236888D700FFD228 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E101D60723688C2C00FFD228 /* FacebookChatTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookChatTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				E101D5D6236888D700FFD228 /* AppDelegate.swift */,
 				E101D5D8236888D700FFD228 /* ViewController.swift */,
+				E101D60723688C2C00FFD228 /* FacebookChatTableViewCell.swift */,
 				E101D5DA236888D700FFD228 /* Main.storyboard */,
 				E101D5E0236888D700FFD228 /* Assets.xcassets */,
 				E101D5E2236888D700FFD228 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				E101D5D9236888D700FFD228 /* ViewController.swift in Sources */,
 				E101D5D7236888D700FFD228 /* AppDelegate.swift in Sources */,
 				E101D5DF236888D700FFD228 /* hw6.xcdatamodeld in Sources */,
+				E101D60823688C2C00FFD228 /* FacebookChatTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
